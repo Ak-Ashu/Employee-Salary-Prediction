@@ -17,7 +17,7 @@ bash
 Copy
 Edit
 📦 Employee-Salary-Prediction/
-├── app.py                  # Streamlit app
+├── Employee_Salary_page.py # Streamlit app
 ├── best_model.pkl          # Trained machine learning model
 ├── scaler.pkl              # Trained scaler (StandardScaler)
 ├── sample_input.csv        # Sample format for CSV uploads
